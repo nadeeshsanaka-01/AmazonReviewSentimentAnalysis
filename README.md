@@ -1,1 +1,2 @@
-# AmazonReviewSentimentAnalysis
+# Amazon Review Sentiment Analysis
+The Review Sentiment Analyzer is a web-based application developed using Streamlit that helps users analyze product reviews. With an intuitive interface, the application enables users to select product categories, choose individual products, and analyze customer reviews using sentiment detection techniques. This tool aims to provide businesses and users with insight into public opinion on products by evaluating the proportion of positive, neutral, and negative sentiments expressed in user reviews.
